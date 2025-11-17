@@ -3,8 +3,8 @@ const mineflayer = require("mineflayer");
 const CONFIG = {
   host: "mc.leftypvp.net",
   port: 25565,
-  username: "username",
-  password: "password",
+  username: "abhay6660",
+  password: "86259233",
   islandWarp: "1saurav1 fishing",
   version: "1.21.1"
 };
