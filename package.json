@@ -1,0 +1,11 @@
+{
+  "name": "lefty-bot",
+  "version": "1.0.0",
+  "main": "leftypvp_bot.js",
+  "scripts": {
+    "start": "node leftypvp_bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.17.0"
+  }
+}
