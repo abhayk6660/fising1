@@ -6,7 +6,6 @@
     "start": "node leftypvp_bot.js"
   },
   "dependencies": {
-    "mineflayer": "4.21.0",
-    "minecraft-protocol": "1.44.0"
+    "mineflayer": "^4.17.0"
   }
 }
